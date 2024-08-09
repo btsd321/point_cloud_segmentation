@@ -1,0 +1,3 @@
+D:/Project/point_cloud_segmentation/out/build/x64-debug/CMakeFiles/point_cloud_segmentation.dir
+D:/Project/point_cloud_segmentation/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Project/point_cloud_segmentation/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
